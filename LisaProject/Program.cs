@@ -10,9 +10,13 @@ namespace LisaProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your favourite number?");
-            Console.ReadLine();
-            Console.WriteLine("Wow, that is my favourite number too!");
+            Console.Write("Type your first number: ");
+            int firstNumber = int.Parse(Console.ReadLine());
+            Console.Write("Type your second number: ");
+            int secondNumber = int.Parse(Console.ReadLine());
+            Console.Write("The sum of the two numbers is: ");
+            int sumOfNumbers = firstNumber + secondNumber;
+            Console.WriteLine(sumOfNumbers);
         }
     }
 }
