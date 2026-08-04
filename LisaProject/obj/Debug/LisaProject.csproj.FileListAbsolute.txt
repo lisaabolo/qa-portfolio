@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\LisaProject\bin\Debug\LisaProject.exe.config
+C:\Users\HP\source\repos\LisaProject\bin\Debug\LisaProject.exe
+C:\Users\HP\source\repos\LisaProject\bin\Debug\LisaProject.pdb
+C:\Users\HP\source\repos\LisaProject\obj\Debug\LisaProject.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LisaProject\obj\Debug\LisaProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LisaProject\obj\Debug\LisaProject.exe
+C:\Users\HP\source\repos\LisaProject\obj\Debug\LisaProject.pdb
