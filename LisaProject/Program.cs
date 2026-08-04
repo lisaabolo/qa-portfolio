@@ -14,8 +14,8 @@ namespace LisaProject
             int firstNumber = int.Parse(Console.ReadLine());
             Console.Write("Type your second number: ");
             int secondNumber = int.Parse(Console.ReadLine());
-            Console.Write("The sum of the two numbers is: ");
-            int sumOfNumbers = firstNumber + secondNumber;
+            Console.Write("The two numbers multiplied are: ");
+            int sumOfNumbers = firstNumber * secondNumber;
             Console.WriteLine(sumOfNumbers);
         }
     }
