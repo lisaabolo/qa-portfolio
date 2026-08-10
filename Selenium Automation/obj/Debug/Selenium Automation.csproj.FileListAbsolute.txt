@@ -1,0 +1,35 @@
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\runtimes\win\native\selenium-manager.exe
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\runtimes\linux\native\selenium-manager
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\runtimes\osx\native\selenium-manager
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Selenium Automation.exe.config
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Selenium Automation.exe
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Selenium Automation.pdb
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Selenium.WebDriver.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Buffers.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Memory.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Text.Json.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Threading.Channels.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\Selenium.WebDriver.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Buffers.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Memory.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Text.Json.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Threading.Channels.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\obj\Debug\Selenium Automation.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\obj\Debug\Selenium Automation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\obj\Debug\Selenium.6D8C5732.Up2Date
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\obj\Debug\Selenium Automation.exe
+C:\Users\HP\OneDrive\Desktop\qa-portfolio\Selenium Automation\obj\Debug\Selenium Automation.pdb
